@@ -12,28 +12,45 @@
 }
 
 .hero{
-    height: 100vh;
-    background-image: url(./img/festival.jpg), linear-gradient(90deg, rgba(168,86,201, 0.83) 0%, rgba(168,86,201, 0.83) 3%,rgba(140,74,173, 0.85) 3%, rgba(140,74,173, 0.85) 11%,rgba(112,61,145, 0.83) 11%, rgba(112,61,145, 0.83) 20%,rgba(85,49,118, 0.81) 20%, rgba(85,49,118, 0.81) 49%,rgba(57,37,90, 0.77) 49%, rgba(57,37,90, 0.77) 71%,rgba(29,24,62, 0.68) 71%, rgba(29,24,62, 0.68) 72%,rgba(1,12,34, 0.45) 72%, rgba(1,12,34, 0.45) 100%),linear-gradient(67.5deg, rgba(168,86,201, 0.83) 0%, rgba(168,86,201, 0.83) 3%,rgba(140,74,173, 0.85) 3%, rgba(140,74,173, 0.85) 11%,rgba(112,61,145, 0.83) 11%, rgba(112,61,145, 0.83) 20%,rgba(85,49,118, 0.81) 20%, rgba(85,49,118, 0.81) 49%,rgba(57,37,90, 0.77) 49%, rgba(57,37,90, 0.77) 71%,rgba(29,24,62, 0.68) 71%, rgba(29,24,62, 0.68) 72%,rgba(1,12,34, 0.45) 72%, rgba(1,12,34, 0.45) 100%),linear-gradient(112.5deg, rgba(168,86,201, 0.83) 0%, rgba(168,86,201, 0.83) 3%,rgba(140,74,173, 0.85) 3%, rgba(140,74,173, 0.85) 11%,rgba(112,61,145, 0.83) 11%, rgba(112,61,145, 0.83) 20%,rgba(85,49,118, 0.81) 20%, rgba(85,49,118, 0.81) 49%,rgba(57,37,90, 0.77) 49%, rgba(57,37,90, 0.77) 71%,rgba(29,24,62, 0.68) 71%, rgba(29,24,62, 0.68) 72%,rgba(1,12,34, 0.45) 72%, rgba(1,12,34, 0.45) 100%),linear-gradient(45deg, rgba(168,86,201, 0.83) 0%, rgba(168,86,201, 0.83) 3%,rgba(140,74,173, 0.85) 3%, rgba(140,74,173, 0.85) 11%,rgba(112,61,145, 0.83) 11%, rgba(112,61,145, 0.83) 20%,rgba(85,49,118, 0.81) 20%, rgba(85,49,118, 0.81) 49%,rgba(57,37,90, 0.77) 49%, rgba(57,37,90, 0.77) 71%,rgba(29,24,62, 0.68) 71%, rgba(29,24,62, 0.68) 72%,rgba(1,12,34, 0.45) 72%, rgba(1,12,34, 0.45) 100%),linear-gradient(90deg, rgba(95,3,74, 0.73),rgba(35,65,96, 0.68)); 
+    background-image: url(./media/img/hero/festival.jpg), linear-gradient(90deg, rgba(168,86,201, 0.83) 0%, rgba(168,86,201, 0.83) 3%,rgba(140,74,173, 0.85) 3%, rgba(140,74,173, 0.85) 11%,rgba(112,61,145, 0.83) 11%, rgba(112,61,145, 0.83) 20%,rgba(85,49,118, 0.81) 20%, rgba(85,49,118, 0.81) 49%,rgba(57,37,90, 0.77) 49%, rgba(57,37,90, 0.77) 71%,rgba(29,24,62, 0.68) 71%, rgba(29,24,62, 0.68) 72%,rgba(1,12,34, 0.45) 72%, rgba(1,12,34, 0.45) 100%),linear-gradient(67.5deg, rgba(168,86,201, 0.83) 0%, rgba(168,86,201, 0.83) 3%,rgba(140,74,173, 0.85) 3%, rgba(140,74,173, 0.85) 11%,rgba(112,61,145, 0.83) 11%, rgba(112,61,145, 0.83) 20%,rgba(85,49,118, 0.81) 20%, rgba(85,49,118, 0.81) 49%,rgba(57,37,90, 0.77) 49%, rgba(57,37,90, 0.77) 71%,rgba(29,24,62, 0.68) 71%, rgba(29,24,62, 0.68) 72%,rgba(1,12,34, 0.45) 72%, rgba(1,12,34, 0.45) 100%),linear-gradient(112.5deg, rgba(168,86,201, 0.83) 0%, rgba(168,86,201, 0.83) 3%,rgba(140,74,173, 0.85) 3%, rgba(140,74,173, 0.85) 11%,rgba(112,61,145, 0.83) 11%, rgba(112,61,145, 0.83) 20%,rgba(85,49,118, 0.81) 20%, rgba(85,49,118, 0.81) 49%,rgba(57,37,90, 0.77) 49%, rgba(57,37,90, 0.77) 71%,rgba(29,24,62, 0.68) 71%, rgba(29,24,62, 0.68) 72%,rgba(1,12,34, 0.45) 72%, rgba(1,12,34, 0.45) 100%),linear-gradient(45deg, rgba(168,86,201, 0.83) 0%, rgba(168,86,201, 0.83) 3%,rgba(140,74,173, 0.85) 3%, rgba(140,74,173, 0.85) 11%,rgba(112,61,145, 0.83) 11%, rgba(112,61,145, 0.83) 20%,rgba(85,49,118, 0.81) 20%, rgba(85,49,118, 0.81) 49%,rgba(57,37,90, 0.77) 49%, rgba(57,37,90, 0.77) 71%,rgba(29,24,62, 0.68) 71%, rgba(29,24,62, 0.68) 72%,rgba(1,12,34, 0.45) 72%, rgba(1,12,34, 0.45) 100%),linear-gradient(90deg, rgba(95,3,74, 0.73),rgba(35,65,96, 0.68));
     background-blend-mode:overlay,overlay,overlay,overlay,normal;
-    background-size: cover; 
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 100vh;
+    overflow: hidden;
+
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
 }
 
 h1{
     font-family: 'Anton', sans-serif;
-    font-size: 160px;
-    color: white;
-    padding: 100px;
+    font-size: 150px;
     text-align: center;
+
+}
+
+.title h1{
+    -webkit-text-fill-color: black;
+    -webkit-text-stroke: 2px white;
 }
 
 .navbar{
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
+    justify-self: flex-start;
     justify-content: space-between;
     padding: 0 50px;
+
 }
 
 .navbar img{
@@ -210,7 +227,7 @@ video{
     color: white;
     font-size: 25px;
     font-weight: bold;
-    font-family: 'Jost', sans-serif; 
+    font-family: 'Jost', sans-serif;
 }
 
 .gallery{
@@ -230,12 +247,14 @@ video{
 .sponsor__img{
     object-fit: cover;
     width: 100%;
-    height: 100%;    
+    height: 100%;
 }
 
 .sponsors{
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     padding: 50px 0;
 }
 
@@ -246,7 +265,10 @@ video{
 
 .sponsor__gallery{
     max-width: 1200px;
-    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-items: center;
 }
 
 .sponsor__gallery .sponsor__picture{
@@ -264,7 +286,7 @@ video{
 }
 
 .card img {
-    width: 300px; 
+    width: 300px;
     height: auto;
     border-radius: 4px;
     object-fit: cover;
@@ -300,7 +322,7 @@ video{
     flex-wrap: wrap;
     justify-content: center;
     gap: 10px;
-    font-family: 'Jost', sans-serif; 
+    font-family: 'Jost', sans-serif;
 }
 
 .general__title{
@@ -333,23 +355,23 @@ video{
 }
 
 .event__picture img{
-    width: 400px;
+    max-width: 400px;
 }
 
 .event__date{
     font-size: 30px;
-    font-family: 'Anton', sans-serif; 
+    font-family: 'Anton', sans-serif;
     font-weight: bolder;
 }
 
 .event__description{
-    font-family: 'Jost', sans-serif; 
+    font-family: 'Jost', sans-serif;
     text-transform: capitalize;
 }
 
 .event__description h3{
     font-size: 20px;
-    font-family: 'Jost', sans-serif; 
+    font-family: 'Jost', sans-serif;
 }
 
 .event__description p{
@@ -366,11 +388,11 @@ video{
 }
 
 footer{
-    height: 400px;
     background: black;
     color: white;
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
     font-family: 'Jost', sans-serif;
@@ -380,13 +402,15 @@ footer{
 .footer__container{
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    max-width: 1500px;
     font-weight: lighter;
 }
 
 .foot_divs{
-    width: 30%;
-    padding: 30px;
+    max-width:500px;
+    padding: 30px; 
     text-align: center;
 }
 
@@ -400,6 +424,9 @@ footer{
     font-family: 'Anton', sans-serif;
     font-size: 35px;
     color: white;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 
 .footer__div2 i{
@@ -422,6 +449,6 @@ footer{
 }
 
 iframe{
-    width: 250px;
-    height: 250px;
+    max-width: 250px;
+    max-height: 250px;
 }
