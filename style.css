@@ -25,10 +25,10 @@
 
 }
 .title{
+    flex-grow: 1;   
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 70vh;
 }
 
 h1{
@@ -202,6 +202,7 @@ h2{
 
 video{
     width: 100%;
+    display: block;
 }
 
 .list_events{
@@ -351,11 +352,11 @@ video{
 
 .event__picture{
     position: relative;
-    display: inline-block;
 }
 
 .event__picture img{
     max-width: 400px;
+    display: block;
 }
 
 .event__date{
